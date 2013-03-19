@@ -3,14 +3,14 @@
 
 The documentation.
 
-![Image](../blob/master/images/nokia.png?raw=true)
+![Image](../master/images/nokia.png?raw=true)
 
 ##About chat
 ----------
 Chat is the **query** layer.
 
 *See [chat readme] [1] in the chat docs subfolder.*
-[1]: ../blob/master/chat/README.md?raw=true "chat readme"
+[1]: ../master/chat/README.md?raw=true "chat readme"
 
 ##About core
 ----------
