@@ -3,8 +3,7 @@
 
 The documentation.
 
-![Image](../master/images/google.jpeg?raw=true)
-![Image](../master/images/File-SVG-logo.svg)
+![Image](../master/images/system_overview.png?raw=true)
 
 ##About chat
 ----------
