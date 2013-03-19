@@ -2,6 +2,7 @@
 ==============
 
 The core documentation.
+![Image](../core/images/system_overview_core.png?raw=true)
 
 ##About core
 ----------
