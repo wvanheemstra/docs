@@ -3,7 +3,7 @@
 
 The documentation.
 
-![Image](../master/images/nokia.png?raw=true)
+![Image](../master/images/google.jpeg?raw=true)
 
 ##About chat
 ----------
@@ -17,18 +17,18 @@ Chat is the **query** layer.
 Core is the **business** layer.
 
 *See [core readme] [2] in the core docs subfolder.*
-[2]: https://github.com/wvanheemstra/docs/blob/master/core/README.md "core readme"
+[2]: ../master/core/README.md "core readme"
 
 ##About mask
 ----------
 Mask is the **style** layer. 
 
 *See [mask readme] [3] in the mask docs subfolder.*
-[3]: https://github.com/wvanheemstra/docs/blob/master/mask/README.md "mask readme"
+[3]: ../master/mask/README.md "mask readme"
 
 ##About skin
 ----------
 Skin is the **layout** layer.
 
 *See [skin readme] [4] in the skin docs subfolder.*
-[4]: https://github.com/wvanheemstra/docs/blob/master/skin/README.md "skin readme"
+[4]: ../master/skin/README.md "skin readme"
