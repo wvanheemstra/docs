@@ -5,16 +5,16 @@ The documentation.
 
 About chat.
 See docs in chat subfolder.
-* wvanheemstra/docs/chat@readme.md 
+* wvanheemstra/docs/chat@README.md 
 
 About core.
 See docs in core subfolder.
-* wvanheemstra/docs/core@readme.md
+* wvanheemstra/docs/core@README.md
 
 About mask.
 See docs in mask subfolder.
-* wvanheemstra/docs/mask@readme.md
+* wvanheemstra/docs/mask@README.md
 
 About skin.
 See docs in skin subfolder.
-* wvanheemstra/docs/skin@readme.md
+* wvanheemstra/docs/skin@README.md
