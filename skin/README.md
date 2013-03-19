@@ -1,4 +1,8 @@
-docs/skin
-====
+docs/skin/README.md
+==============
 
-The documentation of skin.
+The skin documentation.
+
+About skin
+----------
+Skin is the layout layer.

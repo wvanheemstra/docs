@@ -1,4 +1,8 @@
-docs/chat
-====
+docs/chat/README.md
+==============
 
-The documentation of chat.
+The chat documentation.
+
+About chat
+----------
+Chat is the query layer.

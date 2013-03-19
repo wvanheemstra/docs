@@ -1,4 +1,8 @@
-docs/mask
-====
+docs/mask/README.md
+==============
 
-The documentation of mask.
+The mask documentation.
+
+About mask
+----------
+Mask is the style layer.
