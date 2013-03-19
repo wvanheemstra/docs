@@ -10,7 +10,7 @@ The documentation.
 Chat is the **query** layer.
 
 *See [chat readme] [1] in the chat docs subfolder.*
-[1]: ../master/chat/README.md?raw=true "chat readme"
+[1]: ../master/chat/README.md "chat readme"
 
 ##About core
 ----------
