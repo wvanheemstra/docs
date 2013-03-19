@@ -2,6 +2,7 @@
 ==============
 
 The chat documentation.
+![Image](../chat/images/system_overview_chat.png?raw=true)
 
 ##About chat
 ----------
