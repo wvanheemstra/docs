@@ -4,6 +4,7 @@
 The documentation.
 
 ![Image](../master/images/google.jpeg?raw=true)
+![Image](../master/images/File-SVG-logo.svg?raw=true)
 
 ##About chat
 ----------
