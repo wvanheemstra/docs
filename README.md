@@ -5,7 +5,7 @@ The documentation.
 
 About chat.
 See docs in chat subfolder.
-* wvanheemstra/docs/chat/README.md 
+* http://github.com/wvanheemstra/docs/chat/README.md
 
 About core.
 See docs in core subfolder.
