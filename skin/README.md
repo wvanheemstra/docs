@@ -2,7 +2,7 @@
 ==============
 
 The skin documentation.
-![Image](../skin/images/system_overview_mask.png?raw=true)
+![Image](../skin/images/system_overview_skin.png?raw=true)
 
 ##About skin
 ----------
