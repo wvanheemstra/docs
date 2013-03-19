@@ -2,7 +2,7 @@
 ==============
 
 The mask documentation.
-![Image](../master/images/system_overview_mask.png?raw=true)
+![Image](../mask/images/system_overview_mask.png?raw=true)
 
 ##About mask
 ----------
