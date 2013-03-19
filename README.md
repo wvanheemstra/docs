@@ -1,20 +1,24 @@
-docs
-====
+docs/README.md
+==============
 
 The documentation.
 
-About chat.
+About chat
+----------
 See docs in chat subfolder.
 * https://github.com/wvanheemstra/docs/blob/master/chat/README.md
 
-About core.
+About core
+----------
 See docs in core subfolder.
-* wvanheemstra/docs/core/README.md
+* https://github.com/wvanheemstra/docs/blob/master/core/README.md
 
-About mask.
+About mask
+----------
 See docs in mask subfolder.
-* wvanheemstra/docs/mask/README.md
+* https://github.com/wvanheemstra/docs/blob/master/mask/README.md
 
-About skin.
+About skin
+----------
 See docs in skin subfolder.
-* wvanheemstra/docs/skin/README.md
+* https://github.com/wvanheemstra/docs/blob/master/skin/README.md
