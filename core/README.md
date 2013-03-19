@@ -1,4 +1,4 @@
-docs
+docs/core
 ====
 
-The documentation.
+The documentation of core.

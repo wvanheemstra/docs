@@ -1,4 +1,4 @@
-docs
+docs/mask
 ====
 
-The documentation.
+The documentation of mask.

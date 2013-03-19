@@ -1,4 +1,4 @@
-docs
+docs/skin
 ====
 
-The documentation.
+The documentation of skin.
