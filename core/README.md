@@ -1,8 +1,8 @@
-docs/core/README.md
+#docs/core/README.md
 ==============
 
 The core documentation.
 
-About core
+##About core
 ----------
 Core is the **business** layer.

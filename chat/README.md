@@ -1,8 +1,8 @@
-docs/chat/README.md
+#docs/chat/README.md
 ==============
 
 The chat documentation.
 
-About chat
+##About chat
 ----------
 Chat is the **query** layer.
