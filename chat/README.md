@@ -5,4 +5,4 @@ The chat documentation.
 
 About chat
 ----------
-Chat is the query layer.
+Chat is the **query** layer.

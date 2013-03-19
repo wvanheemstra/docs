@@ -5,4 +5,4 @@ The mask documentation.
 
 About mask
 ----------
-Mask is the style layer.
+Mask is the **style** layer.

@@ -5,4 +5,4 @@ The core documentation.
 
 About core
 ----------
-Core is the business layer.
+Core is the **business** layer.

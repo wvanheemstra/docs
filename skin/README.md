@@ -5,4 +5,4 @@ The skin documentation.
 
 About skin
 ----------
-Skin is the layout layer.
+Skin is the **layout** layer.
