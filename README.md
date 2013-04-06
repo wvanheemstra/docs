@@ -41,7 +41,7 @@ Skin is the **layout** layer.
 *See [skin readme] [6] in the skin docs subfolder.*
 [6]: ../master/skin/README.md "skin readme"
 
-##licence
+##Licence
 (The MIT License)
 
 Copyright (C) 2013 Willem van Heemstra willem@vanheemstrasystems.com
