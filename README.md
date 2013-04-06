@@ -6,7 +6,6 @@ The documentation.
 ![Image](../master/images/system_overview.png?raw=true)
 
 ##About chat
-----------
 Chat is the **query** layer.
 
 *See [chat readme] [1] in the chat docs subfolder.*
