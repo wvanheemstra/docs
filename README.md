@@ -12,35 +12,30 @@ Chat is the **query** layer.
 [1]: ../master/chat/README.md "chat readme"
 
 ##About core
-----------
 Core is the **business** layer.
 
 *See [core readme] [2] in the core docs subfolder.*
 [2]: ../master/core/README.md "core readme"
 
 ##About data
-----------
 Data is the **data** layer.
 
 *See [data readme] [3] in the data docs subfolder.*
 [3]: ../master/data/README.md "data readme"
 
 ##About flow
-----------
 Flow is the **flow** layer.
 
 *See [flow readme] [4] in the flow docs subfolder.*
 [4]: ../master/flow/README.md "flow readme"
 
 ##About mask
-----------
 Mask is the **style** layer. 
 
 *See [mask readme] [5] in the mask docs subfolder.*
 [5]: ../master/mask/README.md "mask readme"
 
 ##About skin
-----------
 Skin is the **layout** layer.
 
 *See [skin readme] [6] in the skin docs subfolder.*
