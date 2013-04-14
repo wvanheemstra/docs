@@ -30,7 +30,7 @@ Flow is the **flow** layer.
 [4]: ../master/flow/README.md "flow readme"
 
 ##About kick
-Kick is the **monitoring** layer. 
+Kick is the **monitor** layer. 
 
 *See [kick readme] [5] in the kick docs subfolder.*
 [5]: ../master/kick/README.md "kick readme"
@@ -42,7 +42,7 @@ Mask is the **style** layer.
 [6]: ../master/mask/README.md "mask readme"
 
 ##About reap
-Reap is the **reporting** layer. 
+Reap is the **report** layer. 
 
 *See [reap readme] [7] in the reap docs subfolder.*
 [7]: ../master/reap/README.md "reap readme"
