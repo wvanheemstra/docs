@@ -1,7 +1,13 @@
 #docs/README.md
 ==============
 
-The documentation.
+The documentation of the system called Tacit.
+
+**tac·it**
+/ˈtasit/
+
+Adjective
+Understood or implied without being stated.
 
 ![Image](../master/images/system_overview.png?raw=true)
 
