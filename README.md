@@ -36,21 +36,18 @@ Kick is the **monitoring** layer.
 [5]: ../master/kick/README.md "kick readme"
 
 ##About mask
-----------
 Mask is the **style** layer. 
 
 *See [mask readme] [6] in the mask docs subfolder.*
 [6]: ../master/mask/README.md "mask readme"
 
 ##About reap
-----------
 Reap is the **reporting** layer. 
 
 *See [reap readme] [7] in the reap docs subfolder.*
 [7]: ../master/reap/README.md "reap readme"
 
 ##About skin
-----------
 Skin is the **layout** layer.
 
 *See [skin readme] [8] in the skin docs subfolder.*
