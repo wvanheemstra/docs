@@ -7,11 +7,21 @@ Copyright: All rights reserved - van Heemstra Systems
 ==============
 
 The skin documentation.
-![Image](../skin/images/system_overview_skin.png?raw=true)  "System Overview - Skin"
+![Image](../skin/images/system_overview_skin.png?raw=true)  System Overview - Skin
 
 ##About skin
 Skin is the **layout** layer.
 
 [Server][]
 
-##Server [Server]
+## Server [server] ##
+
+	~~~
+	define foobar() {
+    print "Welcome to flavor country!";
+	}
+	~~~
+
+	# Let me re-iterate ...
+	for i in 1 .. 10 { do-something(i) }
+	
