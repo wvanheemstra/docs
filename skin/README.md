@@ -16,12 +16,8 @@ Skin is the **layout** layer.
 
 ## Server [server] ##
 
-	~~~
-	define foobar() {
-    print "Welcome to flavor country!";
-	}
-	~~~
+Starting the server (e.g. port 80, ip 127.0.0.1):
 
-	# Let me re-iterate ...
-	for i in 1 .. 10 { do-something(i) }
-	
+	#path-to-skin/hem server -p 80 -host 127.0.0.1
+
+##More…
