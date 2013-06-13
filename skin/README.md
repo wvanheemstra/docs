@@ -15,12 +15,12 @@ Skin is the **layout** layer.
 [Installation][]  
 [Server][]  
 
-##Installation[Installation]##
+##Installation [Installation]##
 It is recommended to use npm (http://npmjs.org) as the package manager.
 
 To install all dependencies of skin with npm, from the skin directory that contains package.json, type:
 
-	#npm install
+	#path-to-skin/npm install
 
 
 ## Server [Server] ##
