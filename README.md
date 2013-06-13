@@ -1,3 +1,8 @@
+Title: README  
+Author: Willem van Heemstra  
+Affiliation: van Heemstra Systems
+Copyright: All rights reserved - van Heemstra Systems
+
 #docs/README.md
 ==============
 
