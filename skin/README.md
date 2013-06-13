@@ -12,9 +12,18 @@ The skin documentation.
 ##About skin
 Skin is the **layout** layer.
 
-[Server][]
+[Installation][]  
+[Server][]  
 
-## Server [server] ##
+##Installation[Installation]##
+It is recommended to use npm (http://npmjs.org) as the package manager.
+
+To install all dependencies of skin with npm, from the skin directory that contains package.json, type:
+
+	#npm install
+
+
+## Server [Server] ##
 
 Starting the server (e.g. port 80, ip 127.0.0.1):
 
