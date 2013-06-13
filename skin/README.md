@@ -7,7 +7,7 @@ Copyright: All rights reserved - van Heemstra Systems
 ==============
 
 The skin documentation.
-![Image](../skin/images/system_overview_skin.png?raw=true)
+![Image](../skin/images/system_overview_skin.png?raw=true)  "System Overview - Skin"
 
 ##About skin
 Skin is the **layout** layer.
