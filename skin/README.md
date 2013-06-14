@@ -27,7 +27,7 @@ To install all dependencies of skin with npm, from the skin directory that conta
 ##<a id="Testing"></a>Testing
 Testing makes use of Mocha, see [http://visionmedia.github.io/mocha](http://visionmedia.github.io/mocha).
 
-Run a test (e.g. with spec reporter):
+Run a terminal test (e.g. with spec reporter):
 
 ```
 #path-to-skin/mocha -R spec
