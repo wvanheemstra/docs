@@ -33,16 +33,18 @@ Run a terminal test (e.g. with spec reporter):
 #path-to-skin/mocha -R spec
 ```
 
-Run a browser test (uses Jasmine):
+Run a browser test using Jasmine (e.g. port 80, host 127.0.0.1):
 
 ```
-http://path-to-skin/test/
+http://127.0.0.1:80/test/
 ```
 
 ##<a id="Server"></a>Server
 Hem Server is used, see [http://npmjs.org/package/hem](http://npmjs.org/package/hem).
 
 Starting the server (e.g. port 80, ip 127.0.0.1):
+
+NOTE: default port is set in #path-to-skin/slug.json
 
 ```
 #path-to-skin/hem server -p 80 -host 127.0.0.1
