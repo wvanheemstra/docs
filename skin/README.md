@@ -27,6 +27,12 @@ To install all dependencies of skin with npm, from the skin directory that conta
 ##<a id="Testing"></a>Testing
 Testing makes use of Mocha, see [http://visionmedia.github.io/mocha](http://visionmedia.github.io/mocha).
 
+Run a test:
+
+```
+#path-to-skin/mocha
+```
+
 ##<a id="Server"></a>Server
 Hem Server is used, see [http://npmjs.org/package/hem](http://npmjs.org/package/hem).
 
