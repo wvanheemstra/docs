@@ -21,7 +21,7 @@ Installation makes use of Node Package Manager [npm], see [http://npmjs.org](htt
 To install all dependencies of skin with npm, from the skin directory that contains package.json, type:
 
 ```
-# Path-to-Skin/Npm Install #
+#path-to-skin/npm install
 ```
 
 ##Testing [Testing]
@@ -32,7 +32,9 @@ Hem Server is used, see [http://npmjs.org/package/hem](http://npmjs.org/package/
 
 Starting the server (e.g. port 80, ip 127.0.0.1):
 
-	#path-to-skin/hem server -p 80 -host 127.0.0.1
+```
+#path-to-skin/hem server -p 80 -host 127.0.0.1
+```
 
 ##Licence
 (The MIT License)
