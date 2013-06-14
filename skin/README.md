@@ -4,8 +4,7 @@ Affiliation: van Heemstra Systems
 Copyright: All rights reserved - van Heemstra Systems
 
 #docs/skin/README.md
-==============
-
+====
 The skin documentation.
 ![Image](../skin/images/system_overview_skin.png?raw=true)  System Overview - Skin
 
@@ -13,21 +12,29 @@ The skin documentation.
 Skin is the **layout** layer.
 
 [Installation][]  
+[Testing][]  
 [Server][]  
 
 ##Installation [Installation]##
-It is recommended to use npm (http://npmjs.org) as the package manager.
+Installation makes use of Node Package Manager [npm], see [http://npmjs.org](http://npmjs.org).
 
 To install all dependencies of skin with npm, from the skin directory that contains package.json, type:
 
+	```
 	#path-to-skin/npm install
+	```
 
+##Testing [Testing]
+Testing makes use of Mocha, see [http://visionmedia.github.io/mocha](http://visionmedia.github.io/mocha).
 
-## Server [Server] ##
+##Server [Server] ##
+Hem Server is used, see [http://npmjs.org/package/hem](http://npmjs.org/package/hem).
 
 Starting the server (e.g. port 80, ip 127.0.0.1):
 
+	```
 	#path-to-skin/hem server -p 80 -host 127.0.0.1
+	```
 
 ##Licence
 (The MIT License)
@@ -38,4 +45,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
