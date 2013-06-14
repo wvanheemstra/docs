@@ -48,6 +48,12 @@ Starting the server (e.g. port 80, ip 127.0.0.1):
 #path-to-skin/hem server -p 80 -host 127.0.0.1
 ```
 
+Browse #path-to-skin/public/index.html (e.g. port 80, ip 127.0.0.1):
+
+```
+http://127.0.0.1:80/
+```
+
 ##<a id="License"></a>Licence
 (The MIT License)
 
