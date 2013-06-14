@@ -10,11 +10,12 @@ The skin documentation.
 ##About skin
 Skin is the **layout** layer.
 
-[Installation][]  
-[Testing][]  
-[Server][]  
+[Installation](#Installation)  
+[Testing](#Testing)  
+[Server](#Server)  
+[License](#License)  
 
-##Installation [Installation]##
+##<a id="Installation"></a>Installation
 Installation makes use of Node Package Manager [npm], see [http://npmjs.org](http://npmjs.org).
 
 To install all dependencies of skin with npm, from the skin directory that contains package.json, type:
@@ -23,10 +24,10 @@ To install all dependencies of skin with npm, from the skin directory that conta
 #path-to-skin/npm install
 ```
 
-##Testing [Testing]
+##<a id="Testing"></a>Testing
 Testing makes use of Mocha, see [http://visionmedia.github.io/mocha](http://visionmedia.github.io/mocha).
 
-##Server [Server] ##
+##<a id="Server"></a>Server
 Hem Server is used, see [http://npmjs.org/package/hem](http://npmjs.org/package/hem).
 
 Starting the server (e.g. port 80, ip 127.0.0.1):
@@ -35,7 +36,7 @@ Starting the server (e.g. port 80, ip 127.0.0.1):
 #path-to-skin/hem server -p 80 -host 127.0.0.1
 ```
 
-##Licence
+##<a id="License"></a>Licence
 (The MIT License)
 
 Copyright (C) 2013 Willem van Heemstra willem@vanheemstrasystems.com
