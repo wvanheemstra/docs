@@ -33,6 +33,12 @@ Run a test (e.g. with spec reporter):
 #path-to-skin/mocha -R spec
 ```
 
+Run a browser test (uses Jasmine):
+
+```
+http://path-to-skin/test/
+```
+
 ##<a id="Server"></a>Server
 Hem Server is used, see [http://npmjs.org/package/hem](http://npmjs.org/package/hem).
 
