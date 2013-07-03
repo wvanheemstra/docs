@@ -19,12 +19,14 @@ Skin is the **layout** layer.
 ##<a id="Dependencies"></a>Dependencies
 For web clients (mobile, phone and desktop), the Sencha Touch and ExtJS libraries are used. See [Sencha](http://www.sencha.com/)
 
-To manage the individual views and view models, in addition, GluJS is used. See [GluJS](http://conarrative.github.io/glujs-guide/)
+To manage the individual views, models, stores, controllers, mediators and services , in addition, FlowMVC is used. See [FlowMVC](https://github.com/WebAppSolutionInc/flow-mvc)
+
+To serve the files, ExpressJS is used. See [ExpressJS] (http://expressjs.com/)
 
 ##<a id="Installation"></a>Installation
 Installation is by making the directory 'public' accessible from your web root.
 
-Run nmp install from within the public/app/ folder to install the node modules listed in package.json.
+Run 'nmp install' from within the root to install the node modules listed in package.json.
 
 ##<a id="Testing"></a>Testing
 Following the path to the 'public' web folder should show you the index.html page.
@@ -40,12 +42,14 @@ See Manuel Kiessling's blog post, where he explains how to test for either clien
 Specs are written in CoffeeScript and parsed to JavaScript.
 
 ##<a id="Server"></a>Server
-You can use your own preferred web server.
+To start the web server, run 'node server.js' from within the /server folder. The site will then be accessible on http://\<your host>:\<your port number>
+
+The server will distinguish between client device types (e.g. desktop, mobile, tablet, tv etc), thanks to express-device. See [express-device](https://github.com/rguerreiro/express-device)
 
 ##<a id="License"></a>Licence
 (The MIT License)
 
-Copyright (C) 2013 Willem van Heemstra willem@vanheemstrasystems.com
+Copyright (C) 2013 van Heemstra Systems info@vanheemstrasystems.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
