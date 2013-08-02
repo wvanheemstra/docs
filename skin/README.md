@@ -40,6 +40,7 @@ Copy, rename and customise the following sample files:
 /public/index.ejs.sample  TO /public/index.ejs  
 /public/index-debug.ejs.sample  TO /public/index-debug.ejs  
 /public/index-touch.ejs.sample  TO /public/index-touch.ejs  
+/public/app/config/global/Config.js.sample  TO /public/app/config/global/Config.js  
 /public/resources/icons_loading_startup.ai.sample  TO /public/resources/icons_loading_startup.ai
 
 Copy, rename and customise the following image files to fit your application:
