@@ -40,6 +40,7 @@ Copy, rename and customise the following sample files:
 /public/index.ejs.sample  TO /public/index.ejs  
 /public/index-debug.ejs.sample  TO /public/index-debug.ejs  
 /public/index-touch.ejs.sample  TO /public/index-touch.ejs  
+/public/resources/icons_loading_startup.ai.sample  TO /public/resources/icons_loading_startup.ai
 
 Copy, rename and customise the following image files to fit your application:
 
@@ -51,7 +52,7 @@ Copy, rename and customise the following image files to fit your application:
 
 NOTE: Use this site: [ConvertIcon](http://converticon.com/) to convert your image file to an *.ico file. Recommended size is 16px * 16px.
 
-NOTE: An Adobe Illustrator file is supplied for easy re-designing of your image files. See:
+NOTE: An Adobe Illustrator file is supplied (copied and renamed as per above instructions) for easy re-designing of your image files. See:
 
 /public/resources/icons_loading_startup.ai  
 
