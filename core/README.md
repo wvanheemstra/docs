@@ -6,3 +6,7 @@ The core documentation.
 
 ##About core
 Core is the **business** layer.
+
+##Architecture
+The architecture is service oriented.
+![Image](../core/images/architecture_overview_core.png?raw=true)
