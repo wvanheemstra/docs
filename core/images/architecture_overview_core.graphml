@@ -52,7 +52,7 @@
     <node id="n2">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="21.0" width="77.0" x="757.0" y="517.5"/>
+          <y:Geometry height="21.0" width="77.0" x="751.0" y="517.5"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="80.705078125" x="-1.8525390625" y="1.1494140625">business layer<y:LabelModel>
