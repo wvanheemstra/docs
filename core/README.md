@@ -28,3 +28,30 @@ The serviceModel knows about itself, the serviceBus and its model(s).
 
 ##Model
 The model knows only about itself.
+
+##Modules are following the Asynchronous Module Definition (AMD) pattern
+See https://www.youtube.com/watch?v=HwO_qwcJ4rs
+
+For example:
+
+/**
+* Multiply
+*
+* Depends on: none
+*/
+define(function(){
+	return function(x,y){
+		return x * y;
+	};
+});
+
+/**
+* Square
+*
+* Depends on: multiply
+*/
+define(['multiply'], function(multiply){
+	return function(x){
+		return multiply(x,x);
+	};
+});
