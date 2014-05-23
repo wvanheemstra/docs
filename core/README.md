@@ -34,6 +34,24 @@ See https://www.youtube.com/watch?v=HwO_qwcJ4rs
 
 For example:
 ```
+/*
+* Main
+*
+* Depends on: add, subtract, square, divide
+*/
+require(
+	{ 
+		paths:	{}
+	},
+	['add','subtract','square','divide'],
+	function(add, subtract, square, divide) {
+		console.log(add(6,1));
+		console.log(subtract(6,1));
+		console.log(square(4));
+		console.log(divide(16,4));
+	}
+);
+
 /**
 * Multiply
 *
