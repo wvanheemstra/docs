@@ -33,7 +33,7 @@ The model knows only about itself.
 See https://www.youtube.com/watch?v=HwO_qwcJ4rs
 
 For example:
-
+```
 /**
 * Multiply
 *
@@ -55,3 +55,4 @@ define(['multiply'], function(multiply){
 		return multiply(x,x);
 	};
 });
+```
