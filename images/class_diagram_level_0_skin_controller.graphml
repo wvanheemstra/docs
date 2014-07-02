@@ -216,7 +216,7 @@
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="114.0" x="74.0" y="-54.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:Fill color="#E5E5E5" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="37.33984375" x="38.330078125" y="5.6494140625">server<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -233,7 +233,7 @@
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="114.0" x="443.0" y="-0.710905329732725"/>
-          <y:Fill color="#E5E5E5" transparent="false"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="53.353515625" x="30.3232421875" y="5.6494140625">controller<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
